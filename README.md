@@ -4,9 +4,8 @@ Terdapat 3 bentuk 3D, yaitu kubus, limas segitiga, dan prisma segitiga.
 Kubus dibuat menjadi 3 objek, limas segitiga dan prisma segitiga dibuat menjadi 2 objek. Sehingga, total terdapat 7 objek yang tampil di layar.
 Dari ketujuh objek tersebut, enam objek dapat disusun menjadi dua buah rumah dengan 2 hiasan berbentuk limas seigita (objek kubus ketiga hanya menjadi tanah, tidak dapat digerakkan).
 
-==================
+
 Panduan Penggunaan
-==================
 
 --------------------
 Pilih Bentuk 3D:
