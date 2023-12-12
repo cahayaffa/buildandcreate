@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1631558966 source:d:\ari\kuliah\perkuliahan\semester 3\grafika komputer dan multimedia\uas\projuas\glad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<glad/glad.h>
+	<windows.h>
+	<winapifamily.h>
+	<dlfcn.h>
+
+1640612993 source:d:\ari\kuliah\perkuliahan\semester 3\grafika komputer dan multimedia\uas\projuas\main.cpp
+	<glad/glad.h>
+	<GLFW/glfw3.h>
+	<stb_image.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<shader_m.h>
+	<camera.h>
+	<iostream>
+
